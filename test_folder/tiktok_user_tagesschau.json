@@ -1,0 +1,77 @@
+{
+    "user": {
+        "id": "6657771415742726150",
+        "shortId": "",
+        "uniqueId": "tagesschau",
+        "nickname": "tagesschau",
+        "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7bba211d16a2c22fb9fa4ea6eb9bdf9f~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=8a2e323a&x-expires=1746608400&x-signature=dWrs3SaI94ScvnSHJagbehPBwG4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7bba211d16a2c22fb9fa4ea6eb9bdf9f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=b7893f78&x-expires=1746608400&x-signature=tHVu2G1%2B40FCKnqgehATyp0aAuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7bba211d16a2c22fb9fa4ea6eb9bdf9f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=8924dc60&x-expires=1746608400&x-signature=J8HTdrjY7X062kzsgtPpGCJMTs8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "signature": "🌍🔎 tagesschau-Nachrichten \nmit Anna, Antje, Begüm, Amelie & Felix",
+        "createTime": 1553750433,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAGRT0MnzwCCwB2WE5vigBFcRSrKB3mzC9_9L39OpxAXEWHhmz2fknls_mI0HneFNV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://tsde.li/impressum",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {
+                "android": "",
+                "ios": ""
+            },
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": "",
+        "uniqueIdModifyTime": 0,
+        "ttSeller": false,
+        "region": "DE",
+        "downloadSetting": 3,
+        "profileTab": {
+            "showMusicTab": false,
+            "showQuestionTab": true,
+            "showPlayListTab": true
+        },
+        "followingVisibility": 2,
+        "recommendReason": "",
+        "nowInvitationCardUrl": "",
+        "nickNameModifyTime": 0,
+        "isEmbedBanned": false,
+        "canExpPlaylist": true,
+        "profileEmbedPermission": 1,
+        "language": "de-DE",
+        "eventList": [],
+        "suggestAccountBind": false,
+        "isOrganization": 1
+    },
+    "stats": {
+        "followerCount": 1800000,
+        "followingCount": 20,
+        "heart": 65100000,
+        "heartCount": 65100000,
+        "videoCount": 1927,
+        "diggCount": 0,
+        "friendCount": 18
+    },
+    "statsV2": {
+        "followerCount": "1826745",
+        "followingCount": "20",
+        "heart": "65140059",
+        "heartCount": "65140059",
+        "videoCount": "1927",
+        "diggCount": "0",
+        "friendCount": "18"
+    },
+    "itemList": []
+}

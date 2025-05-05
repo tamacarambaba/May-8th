@@ -1,0 +1,155 @@
+{
+    "video_metadata": {
+        "id": 7498540589986663726,
+        "time_created": "2025-04-29T03:27:23",
+        "author_id": 6794219448560976901,
+        "description": "That moment you have a close encounter with BEARS! 😩 PS..I had no control of how slow it was going. I was not able to speed it up! #gatlinburg #bears #anakeesta #2025 #fypシ ",
+        "hashtags": [
+            "gatlinburg",
+            "bears",
+            "anakeesta",
+            "2025",
+            "fypシ"
+        ],
+        "mentions": null,
+        "music_id": 7498540553740520234,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [
+            "polar bears",
+            "polar bear encounter",
+            "grizzly bear encounters",
+            "black bear",
+            "grizzly bears",
+            "grizzly bear vs black bear",
+            "Bear",
+            "grizzly",
+            "white bear",
+            "teddy bears"
+        ],
+        "diggcount": 6900000,
+        "sharecount": 1100000,
+        "commentcount": 79400,
+        "playcount": 119200000,
+        "collectcount": 302339,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Animals",
+            "Nature"
+        ],
+        "diversification_id": 10021,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7498540589986663726,
+        "filepath": "test_folder/tiktok_7498540589986663726_*",
+        "duration": 33,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -18.9,
+        "volume_peak": 1,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7498540553740520234,
+        "title": "original sound",
+        "author_name": "Annie",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 33.906937,
+            "preciseShootDuration": 33.906937,
+            "preciseAuditionDuration": 33.906937,
+            "preciseVideoDuration": 33.906937
+        }
+    },
+    "author_metadata": {
+        "id": 6794219448560976901,
+        "username": "stephanieee_.27",
+        "name": "Annie",
+        "signature": "NC 🌼\nSnapchat: Steph-Aguirre",
+        "create_time": 1584910823,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "gatlinburg",
+            "id": 157217,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "bears",
+            "id": 17530,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "anakeesta",
+            "id": 80606478,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "2025",
+            "id": 38767842,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fypシ",
+            "id": 1637342470396934,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}
