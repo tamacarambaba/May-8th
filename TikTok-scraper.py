@@ -9,13 +9,15 @@ proxies = [{'server': 'http://172.81.21.149:29842', 'username': 'iweber02', 'pas
 
 ms_token = os.environ.get("ms_token", None)
 
-unique_ids = set()
+with open("unique_ids.txt", "r") as f:
+    unique_ids = set(line.strip() for line in f if line.strip())
 
 hashtags_by_lang = {
-    "en": ["May8", "Veday", "Veday80"],
-    "de": ["8Mai","8Mai1945", "TagDerBefreiung"],
-    "ru": ["ДеньПобеды", "80летПобеды"]
+    "en": ["VictoryDay", "Veday80"],
+    "de": ["9Mai", "TagDesSieges"],
+    "ru": ["ДеньПобеды", "80летПобеды", "9мая"]
 }
+
 
 async def get_video_ids_by_hashtag(hashtag, count):
     async with TikTokApi() as api:
@@ -35,7 +37,7 @@ async def get_video_ids_by_hashtag(hashtag, count):
             video_id = video.id
             if video_id in unique_ids:
                 continue
-            
+
             unique_ids.add(video_id)
             video_ids.append(video_id)
 
@@ -57,8 +59,12 @@ for lang, hashtags in hashtags_by_lang.items():
         print(f"🔍 Data collection for #{tag} ({lang})")
 
         # Сбор ID
-        ids = fetch_ids_sync(tag, count=50)
+        ids = fetch_ids_sync(tag, count=100)
 
         # Скрейпинг видео
         tt = TT_Scraper(wait_time=0.3, output_files_fp=output_dir)
         tt.scrape_list(ids, scrape_content=True, clear_console=True)
+
+with open("unique_ids.txt", "w") as f:
+    for uid in sorted(unique_ids):
+        f.write(uid + "\n")
