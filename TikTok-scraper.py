@@ -14,8 +14,8 @@ with open("unique_ids.txt", "r") as f:
 
 hashtags_by_lang = {
     "en": ["VictoryDay", "Veday80"],
-    "de": ["9Mai", "TagDesSieges"],
-    "ru": ["ДеньПобеды", "80летПобеды", "9мая"]
+    "de": ["9Mai", "TagDerBefreiung"],
+    "ru": ["ДеньПобеды", "9мая"]
 }
 
 
@@ -58,10 +58,8 @@ for lang, hashtags in hashtags_by_lang.items():
 
         print(f"🔍 Data collection for #{tag} ({lang})")
 
-        # Сбор ID
         ids = fetch_ids_sync(tag, count=100)
 
-        # Скрейпинг видео
         tt = TT_Scraper(wait_time=0.3, output_files_fp=output_dir)
         tt.scrape_list(ids, scrape_content=True, clear_console=True)
 
