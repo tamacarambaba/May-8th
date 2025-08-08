@@ -12,23 +12,7 @@ This project allows you to:
     Visualize hashtag co-occurrences as a network
 
 All features are controlled by a single script (main.py) using a mode setting.
-Virtual Environment (venv)
-
-A complete virtual environment with all required dependencies is already included in this project.
-If you are using this environment, you do not need to install the requirements again.
-How to use the included venv
-
-On Windows (PowerShell):
-
-.\venv\Scripts\activate
-python main.py
-
-On macOS/Linux:
-
-source venv/bin/activate
-python main.py
-
-If you decide to create a fresh environment instead, install the dependencies via:
+If you decide to create a fresh environment, install the dependencies via:
 
 pip install -r requirements.txt
 
