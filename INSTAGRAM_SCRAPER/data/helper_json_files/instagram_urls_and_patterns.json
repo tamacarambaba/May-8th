@@ -1,0 +1,7 @@
+{
+    "instagram_url"                 : "https://instagram.com",
+    "instagram_hashtag_base_url"    : "https://www.instagram.com/explore/search/keyword/?q=%23",
+    "post_link_pattern"             : "https://www.instagram.com/p/",
+    "post_full_text_class"          : "x193iq5w",
+    "post_posting_datetime_class"   : "x1p4m5qa"
+}
